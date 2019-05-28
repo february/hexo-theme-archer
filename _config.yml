@@ -10,10 +10,10 @@ social:
   email: zhang.hao@live.com
   github: //github.com/february
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
+  wechat: 
   qq: 
   telegram: 
-  weibo: 
+  weibo: //weibo.com/febris21
   zhihu: 
   douban: 
   facebook: 
